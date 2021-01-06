@@ -1,0 +1,12 @@
+{
+  "name": "tableau-wdc-tutorial-part-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kenyg2020/tableau-wdc-tutorial-part-1",
+  "author": "kenyg2020 <win2009tera@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1"
+  }
+}
